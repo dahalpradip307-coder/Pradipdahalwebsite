@@ -1,0 +1,43 @@
+<h1 align="center">Hi 👋, I'm Pradip Dahal</h1>
+<h3 align="center">Pradip Dahal 🇳🇵 Trekking Guide in Nepal Himalayas 🌄 Learning Web Development 💻 Helping people explore mountains & create memories.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipdahalwebsite&label=Profile%20views&color=0e75b6&style=flat" alt="pradipdahalwebsite" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradipdahalwebsite" alt="pradipdahalwebsite" /></a> </p>
+
+- 🌄 Professional Trekking Guide in Nepal 🇳🇵 - 🏔️ Mardi Himal, ABC, Annapurna Circuit, Manaslu & Poonhill Specialist - 🤝 Guiding international clients with safe and memorable experiences - 🗺️ Trek planning, safety, and route management - 💻 Learning Web Development (HTML, CSS, JavaScript) [https://maps.app.goo.gl/SDnYBSNwgXqRtmcp6](https://maps.app.goo.gl/SDnYBSNwgXqRtmcp6)
+
+- 🌱 I’m currently learning **korean language**
+
+- 👯 I’m looking to collaborate on [Trekking and adventure projects in Nepal: - 🌄 guiding treks: Mardi Himal, ABC, Annapurna Circuit, Manaslu & Poonhill - 🗺️ Planning safe and memorable trekking routes - 🤝 Working with travel agencies, guides, and tourism platforms - 🌍 Promoting Nepal tourism digitally through photos, blogs, and maps If you’re a trekking partner, agency, or adventure project, let’s **connect and explore together!** 🏔️](https://maps.app.goo.gl/SDnYBSNwgXqRtmcp6)
+
+- 📂 Projects [**Trekking Website (In Progress)** – Showcasing Nepal treks & booking info - **Personal Portfolio Site** – Highlighting trekking experience + projects - **Map & Trek Guide Tool** – Interactive map for trekkers](www.pradipdahal1.com.np)
+
+- 👨‍💻 Let's Explore [“Mountains teach patience, coding teaches persistence. I love both!” 🏔️💻](“Mountains teach patience, coding teaches persistence. I love both!” 🏔️💻)
+
+- 📝 ## 🛠️ Skills [**Trekking & Adventure:** Trek Planning, Client Guidance, Route Management - **Web Development:** HTML, CSS, JavaScript (Learning)](**Trekking & Adventure:** Trek Planning, Client Guidance, Route Management - **Web Development:** HTML, CSS, JavaScript (Learning))
+
+- 📫 How to reach me **dahalpradip307@gmail.com 🌐 Website: [pradipdahal1.com.np](https://pradipdahal1.com.np) - 📸 Instagram: [https://www.instagram.com/pradip_dahal30?igsh=MTZ1YzFjOWg0a2Eycg== ] - 📧 Email: [pradipdahal86@gmail.com] ---**
+
+- 📄 Know about my experiences [## 🧠 What I Know - 🌄 Professional Trekking Guide in Nepal 🇳🇵 - 🏔️ Mardi Himal, ABC, Annapurna Circuit, Manaslu & Poonhill Specialist - 🤝 Strong experience guiding international clients - 🗺️ Trek planning, safety, and route management - 💻 Learning Web Development (HTML, CSS, JavaScript)🌍 Promoting Nepal tourism through digital platforms](## 🧠 What I Know - 🌄 Professional Trekking Guide in Nepal 🇳🇵 - 🏔️ Mardi Himal, ABC, Annapurna Circuit, Manaslu & Poonhill Specialist - 🤝 Strong experience guiding international clients - 🗺️ Trek planning, safety, and route management - 💻 Learning Web Development (HTML, CSS, JavaScript)🌍 Promoting Nepal tourism through digital platforms)
+
+- ⚡ Fun fact **## ⚡ Fun Fact - From mountain trails to coding trails 🌄➡️💻**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/share/1pydfb7wr4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1pydfb7wr4/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/pradip_dahal30?igsh=mtz1yzfjowg0a2eycg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pradip_dahal30?igsh=mtz1yzfjowg0a2eycg==" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@pradipdahal_official?si=wjdb_ob-qykgdsrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@pradipdahal_official?si=wjdb_ob-qykgdsrn" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradipdahalwebsite&show_icons=true&locale=en&layout=compact" alt="pradipdahalwebsite" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradipdahalwebsite&show_icons=true&locale=en" alt="pradipdahalwebsite" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradipdahalwebsite&" alt="pradipdahalwebsite" /></p>
+<img width="2000" height="2000" alt="Travel Business Logo in Orange Black Illustrative Style_20260313_235220_0000" src="https://github.com/user-attachments/assets/0cacea07-da00-4688-85ae-0ba63dfdadb8" />
+
+  
